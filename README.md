@@ -1,2 +1,2 @@
-# F-group
+group 12
 assignments
